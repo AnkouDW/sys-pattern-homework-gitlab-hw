@@ -31,9 +31,11 @@ https://github.com/AnkouDW/sys-pattern-homework-gitlab-hw/blob/5dff8f8f5807c4766
 
 Скриншоты с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html:
 
-<img width="769" height="521" alt="2_1" src="https://github.com/user-attachments/assets/13ffde54-8347-4eda-85bb-71f73c54aa65" />
+<img width="769" height="345" alt="2_1" src="https://github.com/user-attachments/assets/d8675b38-0eaf-460a-a8e5-2373d66add4b" />
 
-<img width="766" height="534" alt="2_2" src="https://github.com/user-attachments/assets/6d0285c6-027d-40fc-8755-ef2dc7283773" />
+<img width="766" height="380" alt="2_2" src="https://github.com/user-attachments/assets/324ecf76-5a93-44e1-9dad-5da5a32a7cf6" />
+
+
 
 
 
